@@ -1,5 +1,5 @@
 # asot_streamer_youtube
-A script which streams all mp3 files in a folder to YouTube with a simple visualizer and tracklist. This script was specifically written with the radio show "[A State Of Trance](http://www.astateoftrance.com/)" in mind. YouTube bans the stream within a few hours, so I never actually used it in the end. I knew this was going to happen - I just wanted to test if what I had in mind was possible.
+A script which streams all mp3 files in a folder to YouTube with a simple visualizer and tracklist. This script was specifically written with the radio show "[A State Of Trance](http://www.astateoftrance.com/)" in mind. **YouTube bans the stream within a few hours, so I never actually used it in the end. I knew this was going to happen - I just wanted to test if what I had in mind was possible.**
 
 ## What I tried to do
 I tried streaming all episodes from a radio show, recorded in MP3 format, to YouTube. However, I didn't want to include just a static image as the video stream, so I implemented a simple visualization using ffmpeg. Then I added a script to fetch the tracklist from the official radio show website, which then gets displayed in the video stream as well.
