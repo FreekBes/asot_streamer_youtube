@@ -5,7 +5,7 @@ A script which streams all mp3 files in a folder to YouTube with a simple visual
 I tried streaming all episodes from a radio show, recorded in MP3 format, to YouTube. However, I didn't want to include just a static image as the video stream, so I implemented a simple visualization using ffmpeg. Then I added a script to fetch the tracklist from the official radio show website, which then gets displayed in the video stream as well.
 
 ## What can you do with this?
-Use this as an inspiration I guess!
+Use this as an inspiration I guess! The only thing I do not allow you to use *without credit* is the file "asot_bg.jpg". This picture was taken by me back at a festival in 2017. You may use everything else to your liking!
 
 ## How can I modify the code for my own project?
 I have no idea. What I can do though, is go through how my code works. Here we go.
