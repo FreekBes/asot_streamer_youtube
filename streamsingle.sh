@@ -2,13 +2,13 @@
 
 # only the CAPITALIZED variables below are changable!
 
-VBR="2500K"                                 								# Bitrate
-BUFSIZE="5000K"																# Buffer size (2 times the bitrate)
-FPS="30"                                    								# FPS
-YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"								# YouTube RTMP server URL
+VBR="2500K"                                 						# Bitrate
+BUFSIZE="5000K"										# Buffer size (2 times the bitrate)
+FPS="30"                                    						# FPS
+YOUTUBE_URL="rtmp://a.rtmp.youtube.com/live2"						# YouTube RTMP server URL
 
 FOLDER="/mnt/f/torrent/Armin_van_Buuren_A_State_of_Trance_001-499"			# Folder to stream from
-KEY="your-stream-key-here"													# YouTube Stream Key
+KEY="your-stream-key-here"								# YouTube Stream Key
 
 stream_name=""
 files=($FOLDER/*.mp3);
